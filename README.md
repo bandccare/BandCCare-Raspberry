@@ -11,7 +11,3 @@
 * FFServer, FFmpeg를 사용하여 실시간 스트리밍 구현
   * FFserver를 라즈베리 파이에 구현
   * 라즈베리파이에서 FFServer를 접속해 스트리밍을 할수 있게 함
-  * Server와 Client가 한 단말기에 같이 있어 매우 비효율적임
-    * 나중에 Server를 따로 구현할 예정
-
-* 시스템이 CI가 되도록 구현
